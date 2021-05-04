@@ -6,7 +6,8 @@ Sorted out some papers related to deep neural network model compression and acce
 - Knowledge Distillation
 - Matrix Decomposition
 - Neural Architecture Search
---
+
+---
 
 ## Pruning
 ### Weight Pruning
