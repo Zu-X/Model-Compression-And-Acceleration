@@ -6,8 +6,7 @@
 >- Knowledge Distillation
 >- Matrix Decomposition
 >- Neural Architecture Search
----
----
+
 ## 1. Pruning
 >Pruning is to remove the redundant parameters in the network while reducing the amount of calculation while not affecting the network performance as much as possible, so as to realize the compression of the model and the acceleration of the reasoning.
 ### 1.1 Weight Pruning
