@@ -14,4 +14,4 @@ Sorted out some papers related to deep neural network model compression and acce
 - 2016-NIPS-[Dynamic Network Surgery for Efficient DNNs](https://arxiv.org/abs/1608.04493)
 
 ### Filter Pruning
--
+- 2017-ICLR-[Pruning Filters for Efficient ConvNets](https://arxiv.org/abs/1608.08710)
