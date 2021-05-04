@@ -6,12 +6,10 @@ Sorted out some papers related to deep neural network model compression and acce
 - Knowledge Distillation
 - Matrix Decomposition
 - Neural Architecture Search
+--
 
 ## Pruning
->
-
 ### Weight Pruning
->
 - 2015-NIPS-[Learning both Weights and Connections for Efficient Neural Networks](https://arxiv.org/abs/1506.02626)
 - 2016-ICLR **(Best Paper)**-[Deep Compression: Compressing Deep Neural Networks with Pruning, Trained Quantization and Huffman Coding](https://arxiv.org/abs/1510.00149)
 - 2016-NIPS-[Dynamic Network Surgery for Efficient DNNs](https://arxiv.org/abs/1608.04493)
