@@ -11,7 +11,7 @@
 >Pruning is to remove the redundant parameters in the network while reducing the amount of calculation while not affecting the network performance as much as possible, so as to realize the compression of the model and the acceleration of the reasoning.
 ### 1.1 Weight Pruning
 - 2015-NIPS-[Learning both Weights and Connections for Efficient Neural Networks](https://arxiv.org/abs/1506.02626)
-- 2016-ICLR **`(Best Paper)`**-[Deep Compression: Compressing Deep Neural Networks with Pruning, Trained Quantization and Huffman Coding](https://arxiv.org/abs/1510.00149)
+- 2016-ICLR-[Deep Compression: Compressing Deep Neural Networks with Pruning, Trained Quantization and Huffman Coding](https://arxiv.org/abs/1510.00149)**`(Best Paper)`**
 - 2016-NIPS-[Dynamic Network Surgery for Efficient DNNs](https://arxiv.org/abs/1608.04493)
 
 ### 1.2 Filter Pruning
