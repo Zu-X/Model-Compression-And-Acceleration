@@ -8,6 +8,7 @@ Sorted out some papers related to deep neural network model compression and acce
 - Neural Architecture Search
 
 ## Pruning
+>Pruning is to remove the redundant parameters in the network without affecting the network performance as much as possible, and reduce the amount of calculation, so as to achieve the compression of the model and the acceleration of reasoning.
 ### Weight Pruning
 - 2015-NIPS-[Learning both Weights and Connections for Efficient Neural Networks](https://arxiv.org/abs/1506.02626)
 - 2016-ICLR **`(Best Paper)`**-[Deep Compression: Compressing Deep Neural Networks with Pruning, Trained Quantization and Huffman Coding](https://arxiv.org/abs/1510.00149)
