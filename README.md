@@ -8,6 +8,7 @@ Sorted out some papers related to deep neural network model compression and acce
 - Neural Architecture Search
 
 ## Pruning
+>
 
 ### Weight Pruning
 - 2015-NIPS-[Learning both Weights and Connections for Efficient Neural Networks](https://arxiv.org/abs/1506.02626)
