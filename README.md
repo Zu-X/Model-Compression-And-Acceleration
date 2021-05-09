@@ -18,9 +18,9 @@
 ### 1.2 Filter Pruning
 - 2017-ICLR-[Pruning Filters for Efficient ConvNets](https://arxiv.org/abs/1608.08710)
 - 2017-ICLR-[Pruning Convolutional Neural Networks for Resource Efficient Inference](https://arxiv.org/abs/1611.06440)
-- 2017-ICCV-[Channel Pruning for Accelerating Very Deep Neural Networks](https://arxiv.org/abs/1707.06168)
 - 2017-ICCV-[Learning Efficient Convolutional Networks through Network Slimming](https://arxiv.org/abs/1708.06519)
-
-### 1.3 Data-Driven Pruning
 - 2016-[Network Trimming: A Data-Driven Neuron Pruning Approach towards Efficient Deep Architectures](https://arxiv.org/abs/1607.03250)
+
+### 1.3 Reconstruction-Error-Based Pruning
 - 2017-ICCV-[ThiNet: A Filter Level Pruning Method for Deep Neural Network Compression](https://arxiv.org/abs/1707.06342)
+- 2017-ICCV-[Channel Pruning for Accelerating Very Deep Neural Networks](https://arxiv.org/abs/1707.06168)
