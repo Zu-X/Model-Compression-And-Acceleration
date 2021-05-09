@@ -3,9 +3,9 @@
 >Sorted out some papers related to deep neural network model compression and acceleration for easy reference. They are mainly divided into five methods:
 - [Pruning](#1-Pruning)
 - [Quantization](#2-Quantization)
-- [Knowledge Distillation](#3-Knowledge Distillation)
-- [Matrix Decomposition](#4-Matrix Decomposition)
-- [Neural Architecture Search](#5-Neural Architecture Search)
+- [Knowledge Distillation](#3-Knowledge-Distillation)
+- [Matrix Decomposition](#4-Matrix-Decomposition)
+- [Neural Architecture Search](#5-Neural-Architecture-Search)
 
 ## 1. Pruning
 >Pruning is to remove the redundant parameters in the network while reducing the amount of calculation while not affecting the network performance as much as possible, so as to realize the compression of the model and the acceleration of the reasoning.
@@ -33,4 +33,6 @@
 ## 3. Knowledge Distillation
 
 ## 4. Matrix Decomposition
+
 ## 5. Neural Architecture Search
+
