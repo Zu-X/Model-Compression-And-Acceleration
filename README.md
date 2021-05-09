@@ -24,6 +24,7 @@
 - 2016-[Network Trimming: A Data-Driven Neuron Pruning Approach towards Efficient Deep Architectures](https://arxiv.org/abs/1607.03250)
 - 2017-ICCV-[ThiNet: A Filter Level Pruning Method for Deep Neural Network Compression](https://arxiv.org/abs/1707.06342)
 - 2017-ICCV-[Channel Pruning for Accelerating Very Deep Neural Networks](https://arxiv.org/abs/1707.06168)
+- 2018-ECCV-[Data-Driven Sparse Structure Selection for Deep Neural Networks](https://arxiv.org/abs/1707.01213)
 
 ### 1.4 Auto Pruning
 - 2018-ECCV-[AMC: AutoML for Model Compression and Acceleration on Mobile Devices](https://arxiv.org/abs/1802.03494)
