@@ -32,6 +32,7 @@
 - 2018-ECCV-[NetAdapt: Platform-Aware Neural Network Adaptation for Mobile Applications](https://arxiv.org/abs/1804.03230v2)
 - 2019-ICLR-[Slimmable Neural Networks](https://arxiv.org/abs/1812.08928)
 - 2019-ICCV-[Universally Slimmable Networks and Improved Training Techniques](https://arxiv.org/abs/1903.05134)
+- 2019-ICCV-[MetaPruning: Meta Learning for Automatic Neural Network Channel Pruning](https://arxiv.org/abs/1903.10258)
 - 2019-[AutoSlim: Towards One-Shot Architecture Search for Channel Numbers](https://arxiv.org/abs/1903.11728)
 
 ### 1.5 Thinking and Analysis
