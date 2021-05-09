@@ -44,4 +44,4 @@
 >Waiting for update...
 
 ## 5. Neural Architecture Search
-
+- 2019-CVPR-[ChamNet: Towards Efficient Network Design through Platform-Aware Model Adaptation](https://arxiv.org/abs/1812.08934v1)
