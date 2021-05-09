@@ -19,6 +19,7 @@
 - 2017-ICLR-[Pruning Filters for Efficient ConvNets](https://arxiv.org/abs/1608.08710)
 - 2017-ICLR-[Pruning Convolutional Neural Networks for Resource Efficient Inference](https://arxiv.org/abs/1611.06440)
 - 2017-ICCV-[Learning Efficient Convolutional Networks through Network Slimming](https://arxiv.org/abs/1708.06519)
+- 2019-CVPR-[Filter Pruning via Geometric Median for Deep Convolutional Neural Networks Acceleration](https://arxiv.org/abs/1811.00250)
 
 ### 1.3 Reconstruction-Error-Based or Data-Driven Pruning
 - 2016-[Network Trimming: A Data-Driven Neuron Pruning Approach towards Efficient Deep Architectures](https://arxiv.org/abs/1607.03250)
