@@ -29,10 +29,13 @@
 - 2018-ECCV-[AMC: AutoML for Model Compression and Acceleration on Mobile Devices](https://arxiv.org/abs/1802.03494)
 
 ## 2. Quantization
+>waiting for update...
 
 ## 3. Knowledge Distillation
+>waiting for update...
 
 ## 4. Matrix Decomposition
+>waiting for update...
 
 ## 5. Neural Architecture Search
 
