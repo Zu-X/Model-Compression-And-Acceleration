@@ -27,6 +27,7 @@
 
 ### 1.4 Auto Pruning
 - 2018-ECCV-[AMC: AutoML for Model Compression and Acceleration on Mobile Devices](https://arxiv.org/abs/1802.03494)
+- 2018-ECCV-[NetAdapt: Platform-Aware Neural Network Adaptation for Mobile Applications](https://arxiv.org/abs/1804.03230v2)
 
 ## 2. Quantization
 >Waiting for update...
