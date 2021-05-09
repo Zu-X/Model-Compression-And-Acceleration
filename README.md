@@ -30,6 +30,9 @@
 ### 1.4 Auto Pruning
 - 2018-ECCV-[AMC: AutoML for Model Compression and Acceleration on Mobile Devices](https://arxiv.org/abs/1802.03494)
 - 2018-ECCV-[NetAdapt: Platform-Aware Neural Network Adaptation for Mobile Applications](https://arxiv.org/abs/1804.03230v2)
+- 2019-ICLR-[Slimmable Neural Networks](https://arxiv.org/abs/1812.08928)
+- 2019-ICCV-[Universally Slimmable Networks and Improved Training Techniques](https://arxiv.org/abs/1903.05134)
+- 
 
 ### 1.5 Thinking and Analysis
 - 2019-ICLR-[The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks](https://arxiv.org/abs/1803.03635)**`(Best Paper)`**
