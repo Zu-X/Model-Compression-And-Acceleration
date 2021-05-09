@@ -30,6 +30,10 @@
 - 2018-ECCV-[AMC: AutoML for Model Compression and Acceleration on Mobile Devices](https://arxiv.org/abs/1802.03494)
 - 2018-ECCV-[NetAdapt: Platform-Aware Neural Network Adaptation for Mobile Applications](https://arxiv.org/abs/1804.03230v2)
 
+### 1.5 Thinking and Analysis
+- 2019-ICLR-[The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks](https://arxiv.org/abs/1803.03635)**`(Best Paper)`**
+- 2019-ICLR-[Rethinking the Value of Network Pruning](https://arxiv.org/abs/1810.05270)
+
 ## 2. Quantization
 >Waiting for update...
 
