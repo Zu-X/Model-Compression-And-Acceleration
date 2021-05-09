@@ -19,6 +19,7 @@
 - 2017-ICLR-[Pruning Filters for Efficient ConvNets](https://arxiv.org/abs/1608.08710)
 - 2017-ICLR-[Pruning Convolutional Neural Networks for Resource Efficient Inference](https://arxiv.org/abs/1611.06440)
 - 2017-ICCV-[Learning Efficient Convolutional Networks through Network Slimming](https://arxiv.org/abs/1708.06519)
+- 2019-ICCV-[Accelerate CNN via Recursive Bayesian Pruning](https://arxiv.org/abs/1812.00353)
 - 2019-CVPR-[Filter Pruning via Geometric Median for Deep Convolutional Neural Networks Acceleration](https://arxiv.org/abs/1811.00250)
 
 ### 1.3 Reconstruction-Error-Based or Data-Driven Pruning
@@ -33,7 +34,7 @@
 - 2019-ICLR-[Slimmable Neural Networks](https://arxiv.org/abs/1812.08928)
 - 2019-ICCV-[Universally Slimmable Networks and Improved Training Techniques](https://arxiv.org/abs/1903.05134)
 - 2019-ICCV-[MetaPruning: Meta Learning for Automatic Neural Network Channel Pruning](https://arxiv.org/abs/1903.10258)
-- 2019-[AutoSlim: Towards One-Shot Architecture Search for Channel Numbers](https://arxiv.org/abs/1903.11728)
+- 2019-NIPS(Workshop)-[AutoSlim: Towards One-Shot Architecture Search for Channel Numbers](https://arxiv.org/abs/1903.11728)
 
 ### 1.5 Thinking and Analysis
 - 2019-ICLR-[The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks](https://arxiv.org/abs/1803.03635)**`(Best Paper)`**
