@@ -37,6 +37,7 @@
 - 2019-NIPS`(Workshop)`-[AutoSlim: Towards One-Shot Architecture Search for Channel Numbers](https://arxiv.org/abs/1903.11728)
 
 ### 1.5 Thinking and Analysis
+- 2018-ICLR`(Workshop)`-[To prune, or not to prune: exploring the efficacy of pruning for model compression](https://arxiv.org/abs/1710.01878)
 - 2019-ICLR-[The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks](https://arxiv.org/abs/1803.03635)**`(Best Paper)`**
 - 2019-ICLR-[Rethinking the Value of Network Pruning](https://arxiv.org/abs/1810.05270)
 
