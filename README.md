@@ -42,6 +42,7 @@
 - 2018-ICLR`(Workshop)`-[To prune, or not to prune: exploring the efficacy of pruning for model compression](https://arxiv.org/abs/1710.01878)
 - 2019-ICLR-[The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks](https://arxiv.org/abs/1803.03635)**`(Best Paper)`**
 - 2019-ICLR-[Rethinking the Value of Network Pruning](https://arxiv.org/abs/1810.05270)
+- 2020-AAAI-[Pruning from Scratch](https://arxiv.org/abs/1909.12579)
 
 ## 2. Quantization
 >Waiting for update...
