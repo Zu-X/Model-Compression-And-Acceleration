@@ -19,6 +19,7 @@
 - 2017-ICLR-[Pruning Filters for Efficient ConvNets](https://arxiv.org/abs/1608.08710)
 - 2017-ICLR-[Pruning Convolutional Neural Networks for Resource Efficient Inference](https://arxiv.org/abs/1611.06440)
 - 2017-ICCV-[Learning Efficient Convolutional Networks through Network Slimming](https://arxiv.org/abs/1708.06519)
+- 2018-IJCAI-[Soft Filter Pruning for Accelerating Deep Convolutional Neural Networks](https://arxiv.org/abs/1808.06866)
 - 2019-ICCV-[Accelerate CNN via Recursive Bayesian Pruning](https://arxiv.org/abs/1812.00353)
 - 2019-CVPR-[Filter Pruning via Geometric Median for Deep Convolutional Neural Networks Acceleration](https://arxiv.org/abs/1811.00250)
 
